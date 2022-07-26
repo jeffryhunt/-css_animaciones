@@ -1,0 +1,19 @@
+.btn-larnU {
+
+    border: none;
+    width: 100px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 3px;
+    margin-top: 30px;
+    transition: 0.4s all ease;
+}
+
+.btn-larnU:hover {
+    background-color: blue;
+    cursor: pointer;
+    box-shadow: 0 0 20px 0;
+    transform: translateY(-5px);
+    color: white;
+}
+
